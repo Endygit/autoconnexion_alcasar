@@ -74,14 +74,6 @@ Le mot de passe est demandé automatiquement.
 
 ---
 
-## ⚠️ Avertissement
-
-Ce script doit être utilisé **uniquement avec un compte légitime** et sur un réseau où vous êtes autorisé à vous connecter.
-
-Toute utilisation abusive est de la responsabilité de l'utilisateur.
-
----
-
 ## 📚 Contexte pédagogique
 
 Ce projet a été réalisé dans un cadre pédagogique afin de :
