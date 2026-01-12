@@ -92,11 +92,6 @@ Ce projet a été réalisé dans un cadre pédagogique afin de :
 
 ---
 
-## 👤 Auteur
-
-Andy
-
----
 
 ## 📝 Licence
 
